@@ -17,3 +17,7 @@ This webpage titled Beats Landing Page is made using HTML and Tailwind CSS. As a
  * ## Output:
 
    ![](./Assets/output.gif)
+
+ * ### Mobile Responsive :
+
+   ![](./Assets/Photos/Mobile%20Output.gif)      
