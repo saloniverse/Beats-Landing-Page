@@ -13,11 +13,14 @@ This webpage titled Beats Landing Page is made using HTML and Tailwind CSS. As a
  * ## Knowledge Gained
 
    1. learned to build webpage using Tailwind CSS efficiently.
+   2. Working on making webpage responsive.
 
  * ## Output:
 
    ![](./Assets/output.gif)
 
  * ### Mobile Responsive : Yes ✅️
+   
+ * #### Output :
 
    ![](./Assets/Photos/Mobile%20Output.gif)      
